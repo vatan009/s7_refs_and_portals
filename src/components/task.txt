@@ -1,0 +1,9 @@
+lec143 : use imperative handle in the resultmodall and make the connection with the TimerChallenge
+
+
+implement remaininng time
+
+use setIntervall for this
+use handleRessret
+use handle:ost
+
